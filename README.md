@@ -4,7 +4,7 @@ Jeux complet Hexavirus avec une interface console
 
 Jouable entre deux humains ou contres des algoritmhes d'intelligence artificielle glouton (MinMax, AlphaBeta, etc...)
 
-# REGLES du jeux HexaVirus :
+# REGLES du jeux Hexavirus :
 
 1) Chaque joueur, à tour de role, peut poser un pion sur une des cases vides adjacentes à un de ses pions.
 
