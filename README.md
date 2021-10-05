@@ -1,5 +1,6 @@
 # Hexavirus-AI-game
-Full Hexavirus game with console UI with some IA greedy algoritmhs (MinMax, AlphaBeta, etc...) 
+
+Jeux complet Hexavirus avec une interface de console, jouable entre deux humains ou des algoritmhes d'intelligence artificielle glouton (MinMax, AlphaBeta, etc...)
 
 # REGLES du jeux HexaVirus :
 
